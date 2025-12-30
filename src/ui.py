@@ -50,7 +50,7 @@ with col1:
 
 with col2:
     st.subheader("Download")
-    st.markdown("Get your production-ready PDF pattern.")
+    st.markdown("Get your print-ready PDF pattern.")
 
     # We generate the bytes eagerly for now as it's likely fast enough
     try:
