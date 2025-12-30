@@ -2,7 +2,7 @@
 
 A Python-based tool to design and generate custom tie patterns (specifically 7-fold ties) and export them as production-ready PDFs.
 
-See it deployed here [ties-marcopist.streamlit.app](ties-marcopist.streamlit.app)
+See it deployed here [ties-marcopist.streamlit.app](http://ties-marcopist.streamlit.app)
 
 ## Features
 
